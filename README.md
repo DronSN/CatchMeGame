@@ -7,10 +7,11 @@ Game field:
 [ ] [*] [ ]
 [x] [ ] [x]
     [x]
+    
+x is Chips for FIRST PLAYER
+* is Chip for SECOND PLAYER
+    
 ```
-\x\ is Chips for FIRST PLAYER
-\*\ is Chip for SECOND PLAYER
-
 1. The Chips of the first player can only move up (from the two upper side cells diagonally).
 2. The Chip of the second player can move up-down-left-right and from the highest position diagonally.
 3. You cannot move to an already occupied cell.
